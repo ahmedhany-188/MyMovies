@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="empty_state_message">No data found</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_server">Error server</string>
+    <string name="error_generic">Connection error</string>
+
+</resources>
